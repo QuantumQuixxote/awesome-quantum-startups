@@ -39,3 +39,18 @@ Awesome Archive of Quantum Computing StartUps
 ## BosonQ 
 - BosonQ develops world-class quantum computing software solutions including but not limited to computational fluid dynamics, computational structural dynamics, computational heat transfer, multidisciplinary optimization, computational aeroacoustics. 
 - These technologies will address key challenges in the field of aerospace, automotive, power generation, chemical manufacturing, polymer processing, petroleum exploration, medical research, meteorology, and astrophysics. The company was founded in August 2020 and is located in Bhilai, Chhattisgarh, India
+
+## C12 Quantum Electronics
+- C12 is a spinout from a research group at the Ecole Normale Superieure in Paris. 
+- The company was founded in 2020 and is developing a spin qubit device based upon carbon nanotubes for high stability.
+
+## Cambridge Quantum Computing Limited (CQC)
+- CQC is company based in the United Kingdom with a focus on developing a Quantum Operating System including a platform for developing a quantum processor, and on related algorithms and software. 
+- CQC has built a proprietary operating system for Quantum Computers (t|ket>) and has a suite of quantum algorithms for applications and programmes in various stages of development. C
+- QC has been working in the quantum computational chemistry area and recently announced they have successfully implemented state-of-the-art quantum algorithms on the IBM 16 qubit quantum computer to calculate the excited states of molecules that take into account multi-reference characteristics.
+
+## ClassiQ
+- Founded in early 2020 and based in Tel Aviv, Israel, Classiq is a quantum software startup. The company builds the top layer of the quantum software stack, bringing automation and synthesis to the quantum algorithm design process and enabling quantum software development without limits.
+
+## CogniFrame
+- CogniFrame, based in Toronto and founded in 2016 has built a "Financial Services Operating Layer" that sits on top of the quantum cloud to solve complex optimization and simulation type problems. Their focus is on creating quantum computing applications and current projects are with several large global financial institutions. They partner with leading quantum hardware providers and are a founding member of Quantum Industry Canada.
